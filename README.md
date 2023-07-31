@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Derek, a Business Intelligence Developer for Goodwill</div>  
+### <div align="center">I'm Derek, a Data Science Analyst at AFLAC</div>  
   
 
 - 🔭 I’m currently working on sharpening my Python, SQL, SSIS, SSAS, SSRS, and PowerBI skills   
