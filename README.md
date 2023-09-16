@@ -15,7 +15,7 @@
 - ❓ Ask me about anything  
   
 
-- ⚡ Fun fact: I am learning Spanish and working towards fluency   
+- ⚡ Fun fact: I was a collegiate cheerleader
   
 
 <br/>  
