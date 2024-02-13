@@ -6,10 +6,10 @@
 ### <div align="center">I'm Derek, a Data Science Analyst at AFLAC</div>  
   
 
-- 🔭 I’m currently working on sharpening my Python, SQL, SSIS, SSAS, SSRS, and PowerBI skills   
+- 🔭 I’m forever sharpening my Python, SQL, SSIS, SSAS, SSRS, and PowerBI skills   
   
 
-- 🌱 I’m currently learning how computer hardware and software works and how to become a better developer    
+- 🌱 I’m currently learning Spanish   
   
 
 - ❓ Ask me about anything  
